@@ -1,6 +1,6 @@
 package course.bootcamp;
 /*
- * @author luis
+ * @author luis mateo nieto vargas
  */
 import java.util.Scanner;
 public class Bootcamp2 {

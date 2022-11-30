@@ -39,8 +39,7 @@ public class Bootcamp2 {
         }
         
         //Switch
-        String estacion;
-        estacion =sc.nextLine();
+        String estacion = "primavera";
         switch (estacion) {
             case "primavera":
                 System.out.println("Estacion de Primavera.");

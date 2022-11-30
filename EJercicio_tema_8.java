@@ -20,9 +20,6 @@ public class Bootcamp3 {
 }
 class Persona {
     
-    /*
-    Metodos Privados
-    */
     private String nombre;
     private int edad;
     private int telefono;
